@@ -1,2 +1,1 @@
-# XlsHelper
-Cakephp Xls helper
+# Cakephp XlsHelper
